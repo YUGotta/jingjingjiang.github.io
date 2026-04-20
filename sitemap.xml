@@ -1,16 +1,371 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://jingjingjiang.github.io/zh/sitemap.xml</loc>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>jingjingjiang.github.io/categories/</loc>
+    <lastmod>2026-04-20T14:29:40+08:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/post/my-first-post/</loc>
+    <lastmod>2026-04-20T14:29:40+08:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/post/</loc>
+    <lastmod>2026-04-20T14:29:40+08:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/</loc>
+    <lastmod>2026-04-20T14:29:40+08:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/</loc>
+    <lastmod>2026-04-20T14:29:40+08:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2026-04-20T14:29:40+08:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2026-04-20T14:29:40+08:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/</loc>
+    <lastmod>2026-02-06T13:56:01-08:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/tufte-features/</loc>
+    <lastmod>2026-02-06T13:56:01-08:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/categories/latex/</loc>
+    <lastmod>2026-02-06T13:56:01-08:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/</loc>
+    <lastmod>2026-02-06T13:56:01-08:00</lastmod>
+    <changefreq>always</changefreq>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/categories/authoring/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/authoring/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/authoring-fullscreen-content/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/authoring-cover-images-and-audio-article/" /><xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-sampul-dan-audio/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/authoring-fullscreen-content/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/content/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/map/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/media/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/fullscreen-example/</loc>
+    <lastmod>2026-01-28T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/authoring-custom-taxonomy/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/taxonomy/</loc>
+    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/alt/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/audio/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/authoring-cover-images-and-audio-article/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/authoring-fullscreen-content/" /><xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-sampul-dan-audio/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/authoring-cover-images-and-audio-article/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/cover/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/gambar/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/images/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/konten/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/pos/mengatur-sampul-dan-audio/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/authoring-fullscreen-content/" /><xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/authoring-cover-images-and-audio-article/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-sampul-dan-audio/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/pos/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/sampul/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/authoring-terms-entry/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-entri-terms/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/authoring-terms-entry/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/authoring-redaction-history/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-riwayat-redaksi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/authoring-redaction-history/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/history/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/pos/mengatur-entri-terms/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/authoring-terms-entry/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-entri-terms/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/pos/mengatur-riwayat-redaksi/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/authoring-redaction-history/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-riwayat-redaksi/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/redaction/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/redaksi/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/riwayat/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/terms/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/accent/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/color/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/categories/configuration/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/configuration/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/configure-discussion/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-diskusi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-discussion/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/configure-slides/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-slide/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-slides/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/configure-logo-and-accent-color/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-logo-dan-aksen-warna/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-logo-and-accent-color/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/configure-main-footer/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-footer-situs/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-main-footer/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/configure-menu/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-menu/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-menu/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/configure-pagefind/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-pagefind/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-pagefind/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/discussion/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/footer/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/categories/homepage/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/logo/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/markdown/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/post/markdown-test/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/tes-markdown/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/markdown-test/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/pos/mengatur-diskusi/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-discussion/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-diskusi/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/pos/mengatur-footer-situs/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-main-footer/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-footer-situs/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/pos/mengatur-logo-dan-aksen-warna/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-logo-and-accent-color/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-logo-dan-aksen-warna/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/pos/mengatur-menu/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-menu/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-menu/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/pos/mengatur-pagefind/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-pagefind/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-pagefind/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/pos/mengatur-slide/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/configure-slides/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/mengatur-slide/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/menu/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/pagefind/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/tags/slide/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/id/pos/tes-markdown/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/post/markdown-test/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/id/pos/tes-markdown/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/author/a.n.-other/</loc>
     
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://jingjingjiang.github.io/en/sitemap.xml</loc>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/author/author-name/</loc>
     
-      <lastmod>2026-02-06T13:56:01-08:00</lastmod>
+    </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/stage/budding/</loc>
     
-  </sitemap>
-  
-</sitemapindex>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/budding/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/budding/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/stage/evergreen/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/evergreen/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/evergreen/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/stage/evergreen/_index.id/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/evergreen/_index.id/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/stage/_index.id/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/_index.id/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/stage/budding/_index.id/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/budding/_index.id/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/stage/seedling/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/seedling/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/seedling/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/stage/seedling/_index.id/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/seedling/_index.id/" />
+  </url>
+  <url>
+    <loc>jingjingjiang.github.io/en/stage/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="jingjingjiang.github.io/en/stage/" />
+  </url>
+</urlset>

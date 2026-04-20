@@ -2,21 +2,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jingjingjiang.github.io/categories/</loc>
+    <loc>http://localhost:5691/categories/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/categories/" />
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://jingjingjiang.github.io/categories/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/categories/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:5691/categories/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/tags/</loc>
+    <loc>http://localhost:5691/tags/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/tags/" />
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://jingjingjiang.github.io/tags/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/tags/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:5691/tags/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/</loc>
+    <loc>http://localhost:5691/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/" />
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://jingjingjiang.github.io/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:5691/" />
   </url>
 </urlset>

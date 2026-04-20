@@ -2,13 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
   <channel>
     <title>Categories on 我的博客</title>
-    <link>https://jingjingjiang.github.io/categories/</link>
-    <description>最新文章 位于 Categories 开启 我的博客</description>
+    <link>jingjingjiang.github.io/categories/</link>
+    <description>Recent Posts in Categories on 我的博客</description>
     <generator>Hugo 0.160.1</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 20 Apr 2026 08:57:40 +0000</lastBuildDate>
-    <atom:link href="https://jingjingjiang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-        <atom:link href="https://jingjingjiang.github.io/en/categories/index.xml" hreflang="en" rel="alternate" type="application/rss&#43;xml" />
-        
+    <lastBuildDate>Mon, 20 Apr 2026 11:24:53 +0000</lastBuildDate>
+    <atom:link href="jingjingjiang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日记</title>
+      <link>jingjingjiang.github.io/categories/%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Mon, 20 Apr 2026 14:29:40 +0800</pubDate>
+      <dc:creator>管理员</dc:creator>
+      <guid>jingjingjiang.github.io/categories/%E6%97%A5%E8%AE%B0/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>Latex</title>
+      <link>jingjingjiang.github.io/categories/latex/</link>
+      <pubDate>Fri, 06 Feb 2026 13:56:01 -0800</pubDate>
+      <dc:creator>管理员</dc:creator>
+      <guid>jingjingjiang.github.io/categories/latex/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>Authoring</title>
+      <link>jingjingjiang.github.io/categories/authoring/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <dc:creator>管理员</dc:creator>
+      <guid>jingjingjiang.github.io/categories/authoring/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>Configuration</title>
+      <link>jingjingjiang.github.io/categories/configuration/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <dc:creator>管理员</dc:creator>
+      <guid>jingjingjiang.github.io/categories/configuration/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>Homepage</title>
+      <link>jingjingjiang.github.io/categories/homepage/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <dc:creator>管理员</dc:creator>
+      <guid>jingjingjiang.github.io/categories/homepage/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
   </channel>
 </rss>

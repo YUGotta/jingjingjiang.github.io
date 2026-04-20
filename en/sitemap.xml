@@ -2,250 +2,250 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jingjingjiang.github.io/en/</loc>
+    <loc>http://localhost:5691/en/</loc>
     <lastmod>2026-02-06T13:56:01-08:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://jingjingjiang.github.io/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:5691/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/categories/</loc>
+    <loc>http://localhost:5691/en/categories/</loc>
     <lastmod>2026-02-06T13:56:01-08:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://jingjingjiang.github.io/categories/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/categories/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:5691/categories/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/categories/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/tufte-features/</loc>
+    <loc>http://localhost:5691/en/post/tufte-features/</loc>
     <lastmod>2026-02-06T13:56:01-08:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/categories/latex/</loc>
+    <loc>http://localhost:5691/en/categories/latex/</loc>
     <lastmod>2026-02-06T13:56:01-08:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/</loc>
+    <loc>http://localhost:5691/en/post/</loc>
     <lastmod>2026-02-06T13:56:01-08:00</lastmod>
     <changefreq>always</changefreq>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/categories/authoring/</loc>
+    <loc>http://localhost:5691/en/categories/authoring/</loc>
     <lastmod>2026-01-29T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/authoring/</loc>
+    <loc>http://localhost:5691/en/tags/authoring/</loc>
     <lastmod>2026-01-29T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/authoring-fullscreen-content/</loc>
+    <loc>http://localhost:5691/en/post/authoring-fullscreen-content/</loc>
     <lastmod>2026-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/post/authoring-cover-images-and-audio-article/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/post/authoring-fullscreen-content/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/post/authoring-cover-images-and-audio-article/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/post/authoring-fullscreen-content/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/content/</loc>
+    <loc>http://localhost:5691/en/tags/content/</loc>
     <lastmod>2026-01-29T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/map/</loc>
+    <loc>http://localhost:5691/en/tags/map/</loc>
     <lastmod>2026-01-29T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/media/</loc>
+    <loc>http://localhost:5691/en/tags/media/</loc>
     <lastmod>2026-01-29T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/</loc>
+    <loc>http://localhost:5691/en/tags/</loc>
     <lastmod>2026-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://jingjingjiang.github.io/tags/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/tags/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:5691/tags/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/tags/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/fullscreen-example/</loc>
+    <loc>http://localhost:5691/en/fullscreen-example/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/authoring-custom-taxonomy/</loc>
+    <loc>http://localhost:5691/en/post/authoring-custom-taxonomy/</loc>
     <lastmod>2025-07-28T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/taxonomy/</loc>
+    <loc>http://localhost:5691/en/tags/taxonomy/</loc>
     <lastmod>2025-07-28T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/alt/</loc>
+    <loc>http://localhost:5691/en/tags/alt/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/audio/</loc>
+    <loc>http://localhost:5691/en/tags/audio/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/authoring-cover-images-and-audio-article/</loc>
+    <loc>http://localhost:5691/en/post/authoring-cover-images-and-audio-article/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/post/authoring-fullscreen-content/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/post/authoring-cover-images-and-audio-article/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/post/authoring-fullscreen-content/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/post/authoring-cover-images-and-audio-article/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/cover/</loc>
+    <loc>http://localhost:5691/en/tags/cover/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/images/</loc>
+    <loc>http://localhost:5691/en/tags/images/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/authoring-terms-entry/</loc>
+    <loc>http://localhost:5691/en/post/authoring-terms-entry/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/authoring-redaction-history/</loc>
+    <loc>http://localhost:5691/en/post/authoring-redaction-history/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/history/</loc>
+    <loc>http://localhost:5691/en/tags/history/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/redaction/</loc>
+    <loc>http://localhost:5691/en/tags/redaction/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/terms/</loc>
+    <loc>http://localhost:5691/en/tags/terms/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/accent/</loc>
+    <loc>http://localhost:5691/en/tags/accent/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/color/</loc>
+    <loc>http://localhost:5691/en/tags/color/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/categories/configuration/</loc>
+    <loc>http://localhost:5691/en/categories/configuration/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/configuration/</loc>
+    <loc>http://localhost:5691/en/tags/configuration/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/configure-discussion/</loc>
+    <loc>http://localhost:5691/en/post/configure-discussion/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/configure-slides/</loc>
+    <loc>http://localhost:5691/en/post/configure-slides/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/configure-logo-and-accent-color/</loc>
+    <loc>http://localhost:5691/en/post/configure-logo-and-accent-color/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/configure-main-footer/</loc>
+    <loc>http://localhost:5691/en/post/configure-main-footer/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/configure-menu/</loc>
+    <loc>http://localhost:5691/en/post/configure-menu/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/configure-pagefind/</loc>
+    <loc>http://localhost:5691/en/post/configure-pagefind/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/discussion/</loc>
+    <loc>http://localhost:5691/en/tags/discussion/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/footer/</loc>
+    <loc>http://localhost:5691/en/tags/footer/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/categories/homepage/</loc>
+    <loc>http://localhost:5691/en/categories/homepage/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/logo/</loc>
+    <loc>http://localhost:5691/en/tags/logo/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/markdown/</loc>
+    <loc>http://localhost:5691/en/tags/markdown/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/post/markdown-test/</loc>
+    <loc>http://localhost:5691/en/post/markdown-test/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/menu/</loc>
+    <loc>http://localhost:5691/en/tags/menu/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/pagefind/</loc>
+    <loc>http://localhost:5691/en/tags/pagefind/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/tags/slide/</loc>
+    <loc>http://localhost:5691/en/tags/slide/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/author/a.n.-other/</loc>
+    <loc>http://localhost:5691/en/author/a.n.-other/</loc>
     
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/author/author-name/</loc>
+    <loc>http://localhost:5691/en/author/author-name/</loc>
     
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/author/</loc>
+    <loc>http://localhost:5691/en/author/</loc>
     
     </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/stage/budding/</loc>
+    <loc>http://localhost:5691/en/stage/budding/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/budding/_index.id/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/budding/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/budding/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/stage/evergreen/</loc>
+    <loc>http://localhost:5691/en/stage/evergreen/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/evergreen/_index.id/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/evergreen/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/evergreen/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/stage/evergreen/_index.id/</loc>
+    <loc>http://localhost:5691/en/stage/evergreen/_index.id/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/evergreen/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/evergreen/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/evergreen/_index.id/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/stage/_index.id/</loc>
+    <loc>http://localhost:5691/en/stage/_index.id/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/_index.id/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/stage/budding/_index.id/</loc>
+    <loc>http://localhost:5691/en/stage/budding/_index.id/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/budding/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/budding/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/budding/_index.id/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/stage/seedling/</loc>
+    <loc>http://localhost:5691/en/stage/seedling/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/seedling/_index.id/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/seedling/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/seedling/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/stage/seedling/_index.id/</loc>
+    <loc>http://localhost:5691/en/stage/seedling/_index.id/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/seedling/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/seedling/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/seedling/_index.id/" />
   </url>
   <url>
-    <loc>https://jingjingjiang.github.io/en/stage/</loc>
+    <loc>http://localhost:5691/en/stage/</loc>
     
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/_index.id/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://jingjingjiang.github.io/en/stage/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/_index.id/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:5691/en/stage/" />
   </url>
 </urlset>

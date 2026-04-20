@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
   <channel>
     <title>evergreen on 我的博客</title>
-    <link>https://jingjingjiang.github.io/en/stage/evergreen/</link>
+    <link>jingjingjiang.github.io/en/stage/evergreen/</link>
     <description>Recent Posts in evergreen on 我的博客</description>
     <generator>Hugo 0.160.1</generator>
-    <language>en-US</language>
-    <lastBuildDate>Mon, 20 Apr 2026 08:57:40 +0000</lastBuildDate>
-    <atom:link href="https://jingjingjiang.github.io/en/stage/evergreen/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 20 Apr 2026 11:24:53 +0000</lastBuildDate>
+    <atom:link href="jingjingjiang.github.io/en/stage/evergreen/index.xml" rel="self" type="application/rss+xml" />
         
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US" dir="ltr">
+<html lang="zh-CN" dir="ltr">
 <head>
     <!-- head.html --><!-- meta.html -->
 
@@ -9,16 +9,16 @@
 <title>Post | 我的博客</title>
 <meta name="author" content="管理员">
 <meta name="description" content="This section demonstrates a list view layout. The post listing style can be modified by adjusting the sitemap changeFreq parameter to values like …" >
-<link rel="canonical" href="https://jingjingjiang.github.io/en/post/">
+<link rel="canonical" href="jingjingjiang.github.io/en/post/">
+<link rel="alternate" hreflang="en" href="jingjingjiang.github.io/id/pos/" title="">
 
 
-
-    <link rel="alternate" type="application/rss+xml" href="https://jingjingjiang.github.io/en/post/index.xml" title="Post | 我的博客 (RSS)" />
+    <link rel="alternate" type="application/rss+xml" href="jingjingjiang.github.io/en/post/index.xml" title="Post | 我的博客 (RSS)" />
     <!-- js.html -->
-                <script src="https://jingjingjiang.github.io/hugo-brewm.min.js"
+                <script src="jingjingjiang.github.io/hugo-brewm.min.js"
                     integrity="sha256-efhgUT7mR5JLZ2J7MXeY95Cln/XlYu9rOXFhJueLxNg=" crossorigin="anonymous"
                     defer></script><!-- css.html -->
-                <link rel="stylesheet" href="https://jingjingjiang.github.io/hugo-brewm.min.css" integrity="sha256-YeLA895w10mujCox0EIGHvMoXpSDmO8r2d71Vg3pyW8=" crossorigin="anonymous">
+                <link rel="stylesheet" href="jingjingjiang.github.io/hugo-brewm.min.css" integrity="sha256-YeLA895w10mujCox0EIGHvMoXpSDmO8r2d71Vg3pyW8=" crossorigin="anonymous">
 
 
 
@@ -56,17 +56,6 @@
             
             <!-- menu.html -->
             <!-- i18n.html -->
-            <nav id="bi18n" aria-label="Language Selections">
-                <a id="has-i18n" class="on-deck"
-                    href="https://jingjingjiang.github.io/"
-                    aria-label="Switch Language to 中文"
-                    aria-description="Current Language is English">
-                    <span class="emoji">🇨🇳&nbsp;</span>
-                    <span class="act iso639 sri" aria-hidden="true">EN</span>
-                    <span class="alt iso639 sri" aria-hidden="true">&rarr; ZH</span>
-                    <span class="t srt languangeName">中文</span>
-                </a>
-            </nav>
 
         </nav>
         <div id="top-nav-screen" class="screening js-cpn" role="presentation" aria-hidden="true"></div>
@@ -84,7 +73,7 @@
                         data-i18n-copy="Copy URL"
                         data-i18n-copying="Copying...">
                                 <li>
-                                    <a id="rss-button" href="https://jingjingjiang.github.io/en/post/index.xml" title="Follow with RSS" role="button" aria-label="Follow with RSS">
+                                    <a id="rss-button" href="jingjingjiang.github.io/en/post/index.xml" title="Follow with RSS" role="button" aria-label="Follow with RSS">
                                         <span class="t srt" role="tooltip">Follow with RSS</span>
                                     </a>
                                 </li>
@@ -99,6 +88,29 @@
         <nav aria-labelledby="breadcrumb">
             <ul role="presentation" class="breadcrumb ">
                     <!-- breadcrumb.html -->
+        <li id="is-translated">
+            
+    <!-- l10n.html -->
+    <details id="has-l10n" class="presentation">
+        <summary aria-label="Language Selections" aria-description="Current Language is ">
+            <span>EN</span>
+        </summary>
+        <nav aria-label="Language Selections">
+            <ul class="on-plank" role="presentation">
+                <li>
+                    <a href="jingjingjiang.github.io/id/pos/" aria-label="Switch Language to " aria-description="Pos">
+                        <span class="emoji">🇨🇳&nbsp;</span>
+                        <span>Pos</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </details>
+        </li>
+        <li>
+            <a href="jingjingjiang.github.io/en/" aria-current="true">
+            </a>
+        </li>
     <li>
         <a href="" aria-current="page" tabindex="-1">Post
         </a>
@@ -144,7 +156,16 @@ sitemap:
         <ul class="rounded has-hash" role="presentation">
             
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/configuration/"
+                        <a href="jingjingjiang.github.io/tags/authoring/"
+                            aria-label="Tag: Authoring"
+                            aria-description="8 Posts"
+                            data-post-counter="8"
+                            >
+                            <span>Authoring</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="jingjingjiang.github.io/tags/configuration/"
                             aria-label="Tag: Configuration"
                             aria-description="6 Posts"
                             data-post-counter="6"
@@ -153,16 +174,52 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/authoring/"
-                            aria-label="Tag: Authoring"
-                            aria-description="5 Posts"
-                            data-post-counter="5"
+                        <a href="jingjingjiang.github.io/tags/cover/"
+                            aria-label="Tag: Cover"
+                            aria-description="3 Posts"
+                            data-post-counter="3"
                             >
-                            <span>Authoring</span>
+                            <span>Cover</span>
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/content/"
+                        <a href="jingjingjiang.github.io/tags/media/"
+                            aria-label="Tag: Media"
+                            aria-description="3 Posts"
+                            data-post-counter="3"
+                            >
+                            <span>Media</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="jingjingjiang.github.io/tags/taxonomy/"
+                            aria-label="Tag: Taxonomy"
+                            aria-description="3 Posts"
+                            data-post-counter="3"
+                            >
+                            <span>Taxonomy</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="jingjingjiang.github.io/tags/alt/"
+                            aria-label="Tag: Alt"
+                            aria-description="2 Posts"
+                            data-post-counter="2"
+                            >
+                            <span>Alt</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="jingjingjiang.github.io/tags/audio/"
+                            aria-label="Tag: Audio"
+                            aria-description="2 Posts"
+                            data-post-counter="2"
+                            >
+                            <span>Audio</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="jingjingjiang.github.io/tags/content/"
                             aria-label="Tag: Content"
                             aria-description="2 Posts"
                             data-post-counter="2"
@@ -171,34 +228,16 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/cover/"
-                            aria-label="Tag: Cover"
+                        <a href="jingjingjiang.github.io/tags/terms/"
+                            aria-label="Tag: Terms"
                             aria-description="2 Posts"
                             data-post-counter="2"
                             >
-                            <span>Cover</span>
+                            <span>Terms</span>
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/media/"
-                            aria-label="Tag: Media"
-                            aria-description="2 Posts"
-                            data-post-counter="2"
-                            >
-                            <span>Media</span>
-                        </a>
-                    </li>
-                    <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/taxonomy/"
-                            aria-label="Tag: Taxonomy"
-                            aria-description="2 Posts"
-                            data-post-counter="2"
-                            >
-                            <span>Taxonomy</span>
-                        </a>
-                    </li>
-                    <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/accent/"
+                        <a href="jingjingjiang.github.io/tags/accent/"
                             aria-label="Tag: Accent"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -207,25 +246,7 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/alt/"
-                            aria-label="Tag: Alt"
-                            aria-description="1 Post"
-                            data-post-counter="1"
-                            >
-                            <span>Alt</span>
-                        </a>
-                    </li>
-                    <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/audio/"
-                            aria-label="Tag: Audio"
-                            aria-description="1 Post"
-                            data-post-counter="1"
-                            >
-                            <span>Audio</span>
-                        </a>
-                    </li>
-                    <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/color/"
+                        <a href="jingjingjiang.github.io/tags/color/"
                             aria-label="Tag: Color"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -234,7 +255,7 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/discussion/"
+                        <a href="jingjingjiang.github.io/tags/discussion/"
                             aria-label="Tag: Discussion"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -243,7 +264,7 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/footer/"
+                        <a href="jingjingjiang.github.io/tags/footer/"
                             aria-label="Tag: Footer"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -252,7 +273,16 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/history/"
+                        <a href="jingjingjiang.github.io/tags/gambar/"
+                            aria-label="Tag: Gambar"
+                            aria-description="1 Post"
+                            data-post-counter="1"
+                            >
+                            <span>Gambar</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="jingjingjiang.github.io/tags/history/"
                             aria-label="Tag: History"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -261,7 +291,7 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/images/"
+                        <a href="jingjingjiang.github.io/tags/images/"
                             aria-label="Tag: Images"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -270,7 +300,16 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/logo/"
+                        <a href="jingjingjiang.github.io/tags/konten/"
+                            aria-label="Tag: Konten"
+                            aria-description="1 Post"
+                            data-post-counter="1"
+                            >
+                            <span>Konten</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="jingjingjiang.github.io/tags/logo/"
                             aria-label="Tag: Logo"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -279,7 +318,7 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/map/"
+                        <a href="jingjingjiang.github.io/tags/map/"
                             aria-label="Tag: Map"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -288,7 +327,7 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/markdown/"
+                        <a href="jingjingjiang.github.io/tags/markdown/"
                             aria-label="Tag: Markdown"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -297,7 +336,7 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/menu/"
+                        <a href="jingjingjiang.github.io/tags/menu/"
                             aria-label="Tag: Menu"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -306,7 +345,7 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/pagefind/"
+                        <a href="jingjingjiang.github.io/tags/pagefind/"
                             aria-label="Tag: Pagefind"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -315,7 +354,7 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/redaction/"
+                        <a href="jingjingjiang.github.io/tags/redaction/"
                             aria-label="Tag: Redaction"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -324,7 +363,34 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/slide/"
+                        <a href="jingjingjiang.github.io/tags/redaksi/"
+                            aria-label="Tag: Redaksi"
+                            aria-description="1 Post"
+                            data-post-counter="1"
+                            >
+                            <span>Redaksi</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="jingjingjiang.github.io/tags/riwayat/"
+                            aria-label="Tag: Riwayat"
+                            aria-description="1 Post"
+                            data-post-counter="1"
+                            >
+                            <span>Riwayat</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="jingjingjiang.github.io/tags/sampul/"
+                            aria-label="Tag: Sampul"
+                            aria-description="1 Post"
+                            data-post-counter="1"
+                            >
+                            <span>Sampul</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="jingjingjiang.github.io/tags/slide/"
                             aria-label="Tag: Slide"
                             aria-description="1 Post"
                             data-post-counter="1"
@@ -333,12 +399,12 @@ sitemap:
                         </a>
                     </li>
                     <li >
-                        <a href="https://jingjingjiang.github.io/en/tags/terms/"
-                            aria-label="Tag: Terms"
+                        <a href="jingjingjiang.github.io/tags/%E6%B5%8B%E8%AF%95/"
+                            aria-label="Tag: 测试"
                             aria-description="1 Post"
                             data-post-counter="1"
                             >
-                            <span>Terms</span>
+                            <span>测试</span>
                         </a>
                     </li>
         </ul>
@@ -363,7 +429,7 @@ sitemap:
                     </summary>
                     <ul class="list-day" role="presentation">
                         <li>
-                            <a class="has-pre" href="/en/post/tufte-features/" aria-label="Hugo-Tufte Features compatibility" aria-description="6 Feb ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/tufte-features/" aria-label="Hugo-Tufte Features compatibility" aria-description="6 Feb ">
                                 <span>Hugo-Tufte Features compatibility</span>
                             </a>
                         </li>
@@ -377,7 +443,7 @@ sitemap:
                     </summary>
                     <ul class="list-day" role="presentation">
                         <li>
-                            <a class="has-pre" href="/en/post/authoring-fullscreen-content/" aria-label="Authoring Fullscreen Content" aria-description="29 Jan ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/authoring-fullscreen-content/" aria-label="Authoring Fullscreen Content" aria-description="29 Jan ">
                                 <span>Authoring Fullscreen Content</span>
                             </a>
                         </li>
@@ -396,7 +462,7 @@ sitemap:
                     </summary>
                     <ul class="list-day" role="presentation">
                         <li>
-                            <a class="has-pre" href="/en/post/authoring-custom-taxonomy/" aria-label="Authoring Stage Taxonomy for Digital Garden" aria-description="28 Jul ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/authoring-custom-taxonomy/" aria-label="Authoring Stage Taxonomy for Digital Garden" aria-description="28 Jul ">
                                 <span>Authoring Stage Taxonomy for Digital Garden</span>
                             </a>
                         </li>
@@ -410,17 +476,17 @@ sitemap:
                     </summary>
                     <ul class="list-day" role="presentation">
                         <li>
-                            <a class="has-pre" href="/en/post/authoring-cover-images-and-audio-article/" aria-label="Authoring Cover Images and Audio Articles" aria-description="22 Feb ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/authoring-cover-images-and-audio-article/" aria-label="Authoring Cover Images and Audio Articles" aria-description="22 Feb ">
                                 <span>Authoring Cover Images and Audio Articles</span>
                             </a>
                         </li>
                         <li>
-                            <a class="has-pre" href="/en/post/authoring-terms-entry/" aria-label="Authoring Terms Entry" aria-description="3 Feb ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/authoring-terms-entry/" aria-label="Authoring Terms Entry" aria-description="3 Feb ">
                                 <span>Authoring Terms Entry</span>
                             </a>
                         </li>
                         <li>
-                            <a class="has-pre" href="/en/post/authoring-redaction-history/" aria-label="Authoring The Redaction History" aria-description="3 Feb ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/authoring-redaction-history/" aria-label="Authoring The Redaction History" aria-description="3 Feb ">
                                 <span>Authoring The Redaction History</span>
                             </a>
                         </li>
@@ -434,37 +500,37 @@ sitemap:
                     </summary>
                     <ul class="list-day" role="presentation">
                         <li>
-                            <a class="has-pre" href="/en/post/configure-discussion/" aria-label="Configure Discussion" aria-description="26 Jan ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/configure-discussion/" aria-label="Configure Discussion" aria-description="26 Jan ">
                                 <span>Configure Discussion</span>
                             </a>
                         </li>
                         <li>
-                            <a class="has-pre" href="/en/post/configure-slides/" aria-label="Configure Homepage Slides" aria-description="26 Jan ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/configure-slides/" aria-label="Configure Homepage Slides" aria-description="26 Jan ">
                                 <span>Configure Homepage Slides</span>
                             </a>
                         </li>
                         <li>
-                            <a class="has-pre" href="/en/post/configure-logo-and-accent-color/" aria-label="Configure Logo and Accent Color" aria-description="26 Jan ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/configure-logo-and-accent-color/" aria-label="Configure Logo and Accent Color" aria-description="26 Jan ">
                                 <span>Configure Logo and Accent Color</span>
                             </a>
                         </li>
                         <li>
-                            <a class="has-pre" href="/en/post/configure-main-footer/" aria-label="Configure Main Footer" aria-description="26 Jan ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/configure-main-footer/" aria-label="Configure Main Footer" aria-description="26 Jan ">
                                 <span>Configure Main Footer</span>
                             </a>
                         </li>
                         <li>
-                            <a class="has-pre" href="/en/post/configure-menu/" aria-label="Configure Menu" aria-description="26 Jan ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/configure-menu/" aria-label="Configure Menu" aria-description="26 Jan ">
                                 <span>Configure Menu</span>
                             </a>
                         </li>
                         <li>
-                            <a class="has-pre" href="/en/post/configure-pagefind/" aria-label="Configure Pagefind" aria-description="26 Jan ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/configure-pagefind/" aria-label="Configure Pagefind" aria-description="26 Jan ">
                                 <span>Configure Pagefind</span>
                             </a>
                         </li>
                         <li>
-                            <a class="has-pre" href="/en/post/markdown-test/" aria-label="Markdown Test" aria-description="26 Jan ">
+                            <a class="has-pre" href="jingjingjiang.github.io/en/post/markdown-test/" aria-label="Markdown Test" aria-description="26 Jan ">
                                 <span>Markdown Test</span>
                             </a>
                         </li>
